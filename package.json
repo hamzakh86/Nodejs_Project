@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "generate-password": "^1.7.1",
+    "http": "^0.0.1-security",
+    "nodemailer": "^6.9.7"
+  }
+}
